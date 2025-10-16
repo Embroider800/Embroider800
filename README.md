@@ -1,7 +1,5 @@
 # 👋 Hello, World!
 
-Can we work on SLACK? If yes, pls invite me duckhuntersghost@gmail.com
-
 I'm a passionate software developer with interest in exploring the limitless possibilities of technology. Welcome to my GitHub profile!
 
 ## About Me
